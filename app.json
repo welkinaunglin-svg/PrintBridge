@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "platforms": ["android"],
     "android": {
-      "package": "com.printbridge.app"
+      "package": "com.welkin.printbridge"
     }
   }
 }
