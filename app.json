@@ -6,6 +6,11 @@
     "platforms": ["android"],
     "android": {
       "package": "com.welkin.printbridge"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "04566360-39b1-4d26-b8fa-770a73826eb5"
+      }
     }
   }
 }
